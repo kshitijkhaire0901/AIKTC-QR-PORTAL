@@ -1,37 +1,69 @@
-# AIKTC-QR-PORTAL
-This QR Code based portal is built to visit and explore AIKTC's college website with each of its individual flash cards.
-Each of the flash card holds information regarding the AIKTC College and its Departments/Schools 🏫.
-Each flash card displays each Department Name as : 
-SOET (School Of Enginering and Technology) ⚙️  , 
-SOA (School Of Architecture) 🏛️ , 
-SOP (School Of Pharmacy) 💊 and 
-BSC.IT (Bachelor Of Science in Information Technology) 💻️ .
-In the top and middle order of the body section holds the flash card for AIKTC College, 
-where its QR Code is the gateway to the official page of AIKTC College.
+# 🏫 AIKTC QR Portal
 
-Each flash card holds different colours and the colours are as follows : 
-AIKTC Main Page Flash Card -  🟠 Orange ,
-SOET Page Flash Card - 🟣 Purple ,
-SOA Page Flash Card - 🔴 Red ,
-SOP Page Flash Card - 🟢 Green ,
-BSC.IT Page Flash Card - 🟡 Yellow 
+A dynamic, QR code-based portal designed to simplify access to AIKTC’s official website and its various departments. Each department is showcased as an animated flip card embedded with a scannable QR Code.
 
-Each flash card has its own QR Code embedded with the website link with respect to each department. 
-And this makes easier to access each department without any hassles.
- 📌 Special Note - Each of the QR Code has an embedded image of AIKTC's logo.
+---
 
-For QR Code Generation , visit this website - https://www.qr-code-generator.com/
+## 📌 What This Project Does
 
-💻️ Tech Stack - 
-HTML5 
-CSS3
-Javascript (Used online AOS.js library for fading transitions )
+- 📸 Scan-based navigation to AIKTC and its departments
+- 💳 Flip-card UI for intuitive interaction
+- 🖼️ Embedded QR Codes with AIKTC logo
+- 🎨 Department-specific color coding
+- 🌀 Smooth scroll-in animations using AOS.js
 
-# 🙌 Author 
-Made with Passion by **Kshitij Khaire**
+---
 
-📝 AIKTC's Slogan - "With you, till you don't need us in any way..."
+## 🧾 Departments Featured
 
-# 📌 License 
-This project is open-sourced for educaional and personal showcase purposes.
+| Department | Abbreviation | Emoji | Card Color |
+|------------|--------------|-------|-------------|
+| School of Engineering and Technology | SOET | ⚙️ | 🟣 Purple |
+| School of Architecture               | SOA  | 🏛️ | 🔴 Red |
+| School of Pharmacy                   | SOP  | 💊 | 🟢 Green |
+| B.Sc. in Information Technology      | BSC.IT | 💻️ | 🟡 Yellow |
+| **AIKTC Main Page**                  | AIKTC | 🎓 | 🟠 Orange |
+
+Each QR Code is pre-embedded with the direct link to its respective department page — making navigation fast, easy, and hassle-free.
+
+---
+
+## 🎨 UI Preview Highlights
+
+- The **top-centered flashcard** highlights AIKTC as an institution.
+- Below it, four interactive department cards are aligned in a clean grid.
+- Flip any card to reveal its QR Code and scan instantly.
+- Each card uses **distinct color themes** to visually differentiate departments.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – for structural markup  
+- **CSS3** – for styling and responsive layout  
+- **AOS.js** – [Animate On Scroll](https://michalsnik.github.io/aos/) library for smooth transitions  
+- **QR Code Generator Tool** – [qr-code-generator.com](https://www.qr-code-generator.com/) used to embed links into QR codes with AIKTC logo
+
+---
+
+## 📱 Mobile Responsive?
+
+Absolutely. The layout is mobile-optimized and scales beautifully on smaller screens.
+
+---
+
+## 🙌 Author
+
+Made with passion by **Kshitij Khaire**  
+🎓 BSc.IT Student @ AIKTC
+
+> _"With you, till you don't need us in any way..."_
+
+---
+
+## 🪪 License
+
+This project is open-sourced for **educational** and **portfolio showcase** purposes.
+
+---
 
