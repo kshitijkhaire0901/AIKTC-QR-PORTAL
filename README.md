@@ -10,10 +10,10 @@ In the top and middle order of the body section holds the flash card for AIKTC C
 where its QR Code is the gateway to the official page of AIKTC College.
 
 Each flash card holds different colours and the colours are as follows : 
-AIKTC Main Page Flash Card -  🟠 Orange
-SOET Page Flash Card - 🟣 Purple
-SOA Page Flash Card - 🔴 Red 
-SOP Page Flash Card - 🟢 Green
+AIKTC Main Page Flash Card -  🟠 Orange ,
+SOET Page Flash Card - 🟣 Purple ,
+SOA Page Flash Card - 🔴 Red ,
+SOP Page Flash Card - 🟢 Green ,
 BSC.IT Page Flash Card - 🟡 Yellow 
 
 Each flash card has its own QR Code embedded with the website link with respect to each department. 
